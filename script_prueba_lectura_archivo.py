@@ -15,3 +15,5 @@ df = pd.read_csv(csv_file_path)
 
 # Mostrar las primeras filas del DataFrame
 display(df.head())
+
+print("prueba GIT")
